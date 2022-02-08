@@ -1,0 +1,36 @@
+form{
+  margin-top: 10%;
+  width: 40%;
+  margin-left: 30%;
+  border: 1px solid green;
+  padding: 1%;
+  background-color: #EAFAF1;
+  border-radius: 2%;
+}
+label{
+  font-style: oblique;
+  font-size: 1.3em;
+}
+input{
+  background-color: #EAFAF1;
+  margin: 2%;
+  margin-left: 15%;
+  text-align: right;
+  border-top: none;
+  border-left: none;
+  border-right:none;
+  border-color: green;
+}
+h1{
+  text-align: center;
+  text-decoration: underline;
+}
+select{
+
+  margin-left: 80%;
+}
+.enviar{
+  padding: 1% 5%;
+  margin-left: 42%;
+  border: 1px solid black;
+}

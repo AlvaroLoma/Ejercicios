@@ -1,0 +1,51 @@
+html{
+  background-color: #F8F9F9;
+}
+
+h1, h3{
+  text-align: center;
+  color: #5D6D7E;
+}
+h3{
+  border-bottom: 1px solid black;
+}
+ul{
+font-family: serif;
+font-size: 1.5em;
+margin-left: 10%;
+color: #2E86C1;
+list-style-position: inside;
+
+font-weight: bolder;
+list-style-image: url("https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/32/Actions-list-add-icon.png");
+}
+li{
+  padding: 1%;
+}
+a::before{
+  content:"<< ";
+
+}
+a{
+  color: #2ECC71;
+  text-decoration:  none;
+  padding-left: 3%;
+
+}
+.Resultado{
+  padding: 2%;
+  margin-top: 5%;
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+.Codigo{
+  width: 80%;
+  margin-left: 20%;
+  margin-top: 5%;
+}
+.volver{
+  text-align: right;
+  margin-right: 5%;
+  display: block;
+  font-size: 2em;
+}

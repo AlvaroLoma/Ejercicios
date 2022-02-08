@@ -1,0 +1,54 @@
+h1{
+  text-align: center;
+  text-decoration: underline;
+}
+form{
+  background-color: #ABFACD;
+  margin-top: 20%;
+  border-radius: 15%;
+  width: 30%;
+  margin-left: 35%;
+  text-align: center;
+  border: 1px solid black;
+}
+label{
+  margin: 5%;
+  display: block;
+}
+input{
+  background-color: #ABFACD;
+  margin-left: 5%;
+  text-align: right;
+  border: none;
+  border-bottom: 1px solid black;
+}
+.primero{
+  margin-left: 10%;
+}
+.correcto{
+  background-image: url("https://icons.iconarchive.com/icons/icojam/blue-bits/72/symbol-check-icon.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.correcto>p{
+  font-size: 5em;
+  text-transform: uppercase;
+}
+
+input[type="submit"] {
+  margin-bottom: 5%;
+  font-size: 1.3em;
+}
+p{
+  text-align: center;
+  color: red;
+  font-size: 2.0em;
+}
+a{
+  font-size: 1.5em;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}

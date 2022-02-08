@@ -1,0 +1,88 @@
+html{
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1{
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+  font-style: oblique;
+}
+form{
+  background-color: #D6EAF8;
+  width: 30%;
+  padding: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  border-top-right-radius: 20%;
+  border: 1px solid #1B4F72;
+  margin-left: auto;
+  margin-right: auto;
+}
+label{
+  font-size: 1.5em;
+  font-weight: bold;
+  font-style: oblique;
+  margin-right: 5%;
+}
+input{
+  background: rgb(214,234,248);
+  background: linear-gradient(90deg, rgba(214,234,248,1) 0%, rgba(93,173,226,1) 35%, rgba(36,113,163,1) 100%);
+  font-size: 1.3em;
+  font-weight: bold;
+  font-style: oblique;
+
+
+}
+textarea{
+  width: 100%;
+    outline: none;
+    background: rgb(214,234,248);
+    background: linear-gradient(90deg, rgba(214,234,248,1) 0%, rgba(93,173,226,1) 35%, rgba(36,113,163,1) 100%);
+  border: none;
+  border-bottom: 3px solid #2471A3;
+  font-weight: bold;
+  font-style: oblique;
+}
+input:first-of-type{
+  text-align: right;
+  outline: none;
+  border: none;
+  border-bottom: 3px solid #2471A3;
+  width: 70%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+
+}
+input[type='submit']{
+  border: none;
+  border-bottom: 3px solid #2471A3;
+  margin-top: 5%;
+width: 50%;
+margin-left: 35%;
+margin-right: auto;
+
+}
+input[type='submit']:hover{
+font-size: 1.6em;
+width: 32%;
+
+}
+a{
+  text-align: center;
+  font-weight: bold;
+  font-style: oblique;
+  color: black;
+  width: 13%;
+  display: block;
+  margin-top: 5%;
+  text-decoration: none;
+  font-size: 1.5em;
+  margin-left: auto;
+  margin-right: auto;
+}
+a:hover{
+  border-bottom: 1px solid black;
+}

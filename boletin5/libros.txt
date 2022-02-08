@@ -1,0 +1,24 @@
+Titulo: Hola
+Tipo: Ejemplar
+Observaciones: bobo
+ --------------------------------------
+Titulo: adios
+Tipo: Ejemplar
+Observaciones:
+ --------------------------------------
+Titulo: como te va
+Tipo: Ejemplar
+Observaciones: aaaa
+ -------------------------------------- 
+Titulo: sff
+Tipo: Colecciones
+Observaciones: sdfasdas
+ --------------------------------------
+Titulo: sdd
+Tipo: Colecciones
+Observaciones: zsdfsd
+ --------------------------------------
+Titulo: Libro 1
+Tipo: Colecciones
+Observaciones: Este es una prueba
+ -------------------------------------- 

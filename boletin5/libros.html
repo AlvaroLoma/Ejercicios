@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="utf-8">
+
+    <title>Boletin 5</title>
+  </head>
+  <body>
+    <h1>Guardar libros</h1>
+    <form class="" action="libros_guardar.php" method="get">
+      <label for="">Titulo: </label> <input type="text" name="Titulo" value="" required> <br>
+      <label for="">Tipo: </label>
+      <input type="radio" name="Tipo" value="1" required> <label for="">Ejemplar</label>
+      <input type="radio" name="Tipo" value="2" required> <label for="">Colecciones</label> <br>
+      <label for="">Observaciones</label><br>
+      <textarea name="Observaciones" rows="8" cols="80"></textarea><br>
+      <input type="submit" name="Enviar" value="Guardar Libro">
+    </form>
+    <a href="libros_datos.php">Mostrar todos los libros</a>
+
+  </body>
+</html>
